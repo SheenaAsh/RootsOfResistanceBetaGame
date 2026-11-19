@@ -1,3 +1,2 @@
-# RootsOfResistanceBetaGame
-The House That Stayed: Roots of Resistance 
-Every home holds a history. Every neighborhood deserves a future.
+# Roots of Resistance
+Open index.html in a modern browser. No libraries or build required. Upload all files into a new GitHub repository, enable Pages from main / root. Alternatively zip the files and upload as a browser game on itch.io. Keyboard WASD/arrows and E, touch direction buttons, or tap the map to move. All art is drawn in game.js. Fictional educational scenario, not a historical reconstruction or predictive model. No real funding estimates. 
